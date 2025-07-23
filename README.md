@@ -69,6 +69,6 @@ Notes
 - You can share the Gradio app publicly by setting share=True in demo.launch(...)
 - For cloud deployment, consider Hugging Face Spaces, IBM Cloud Code Engine, or Streamlit Sharing.
 
-Contact
-Made by Cansu Yamanlar 
+Contact:
+Cansu Yamanlar 
 Contributions and issues welcome!
